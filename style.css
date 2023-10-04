@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar-brand {
+    color: rgb(253, 236, 0) !important;
+}
+
+.navbar-brand span {
+    color: #000 !important;
+}
+#carouselExampleCaptions {
+    max-height: calc(100vh - 20vh) !important;
+}
